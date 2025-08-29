@@ -1,1 +1,1 @@
-# Trading_platform
+# NextTrade
